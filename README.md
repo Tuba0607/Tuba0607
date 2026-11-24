@@ -1,47 +1,26 @@
 <h1 align="center">Hi 👋, I'm Tuğba Boğaoğlu</h1>
+<h3 align="center">Fullstack Developer · Vue/Nuxt · React/Next.js · TypeScript · Prisma/PostgreSQL</h3>
 
-<h3 align="center">
-Frontend Developer | Vue.js • React • Next.js • TypeScript
-</h3>
+I'm a developer with 6 years of frontend experience, now building full products end to end — from database design and server logic to mobile-first UI.
 
-- 🚀 Currently building portfolio projects with **React, Next.js, and TypeScript**
+### 🚀 Featured project
 
-- 🌱 Currently learning **React • Next.js • Node.js • AWS**
+**[Stokiva](https://stokiva-try.vercel.app)** — stock & inventory counting SaaS for restaurants and bars  
+Currently piloting with a restaurant group in Antalya.
 
-- 👨‍💻 Explore my projects: **https://github.com/Tuba0607**
+- Multi-tenant, role-based (owner / branch manager / staff) with per-branch access control
+- Imports staff counts straight from WhatsApp messages — deterministic parsing + smart product matching
+- Mobile-first counting flow, tested on real iPhones
+- Next.js 16 · React 19 · TypeScript · Prisma · PostgreSQL · Vercel
 
-- 📝 I regularly write frontend articles on **Medium**: https://medium.com/@bogaoglutugba
+👉 **[Try the live demo](https://stokiva-try.vercel.app)** — no sign-up, resets nightly
 
-- 💬 Ask me about **Vue.js • Nuxt.js • React • JavaScript • TypeScript • Frontend Architecture**
+### 🛠 Other work
 
-- ⚡ Passionate about building scalable, maintainable, and high-performance web applications.
+- **[Kurgu](https://github.com/Tuba0607/kurgu)** — client & content tracking panel for agency account managers (Nuxt 3, Prisma, PostgreSQL)
 
-<h3 align="left">Connect with me:</h3>
+### 📫 More
 
-<p align="left">
-<a href="https://linkedin.com/in/tuğba-boğaoğlu" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://medium.com/@bogaoglutugba" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-</a>
-</p>
-
-<h3 align="left">Languages & Tools:</h3>
-
-<p align="left">
-<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/></a>
-<a href="https://nuxt.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-<a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-<a href="https://quasar.dev/" target="_blank"><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="40" height="40"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
-</p>
+- 📝 I write about frontend on [Medium](https://medium.com/@bogaoglutugba)
+- 💬 Ask me about Vue/Nuxt, React/Next.js, TypeScript, Prisma, product thinking
+- 🔎 Open to Fullstack / Frontend / Product Engineer roles
